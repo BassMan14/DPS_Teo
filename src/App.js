@@ -2,6 +2,7 @@ import {useState, useEffect} from 'react';
 import './App.css';
 
 //dolares, euros y bitcoin
+//CLASE02
 function App() {
   const [dolar, setUDolar] = useState(0);
   const [euro, setEuro] = useState(0);
